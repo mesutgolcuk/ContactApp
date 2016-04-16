@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RehberUygulamasi</string>
+    <string name="search">Search Contacts...</string>
+    <string name="title_activity_deneme">Deneme</string>
+    <string name="title_activity_contact_information">ContactInformationActivity</string>
+</resources>
